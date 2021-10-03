@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/fun_white"
+    tools:context=".Dash">
+
+    <RelativeLayout
+        android:id="@+id/top_rl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_margin="10dp"
+            android:text="Skribbl"
+            android:letterSpacing="0.1"
+            android:textColor="@color/fun_text1"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@color/fun_grey"
+        android:layout_below="@id/top_rl"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_below="@+id/top_rl">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/leftBtn"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:src="@drawable/vector_arrow_right"
+                android:rotation="180"/>
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/avatarIv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:elevation="5dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginLeft="20dp"
+                android:src="@drawable/avatar_1"/>
+
+
+            <ImageView
+                android:id="@+id/rightBtn"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:src="@drawable/vector_arrow_right"/>
+
+        </LinearLayout>
+
+            <EditText
+                android:id="@+id/enterNameEt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="Enter Name"
+                android:layout_marginTop="50dp"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:textColorHint="@color/text2"
+                android:inputType="textPersonName"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:cursorVisible="false"
+                android:singleLine="true"
+                android:maxLength="9"
+                android:minWidth="160dp"
+                android:gravity="center"
+                android:autoLink="all"
+                android:textColor="@color/text2"
+                android:background="@drawable/c_r_stroke_fun_grey_15"/>
+
+            <Button
+                android:id="@+id/playPublicBtn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="70dp"
+                android:paddingRight="40dp"
+                android:paddingLeft="40dp"
+                android:text="Play Public"
+                android:textAllCaps="false"
+                android:textColor="@color/fun_white"
+                android:textStyle="bold"
+                android:background="@drawable/c_r_fun_anahata_15"/>
+
+            <Button
+                android:id="@+id/enterRoomBtn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingRight="40dp"
+                android:layout_marginTop="20dp"
+                android:paddingLeft="40dp"
+                android:text="Enter Room"
+                android:textAllCaps="false"
+                android:textColor="@color/fun_white"
+                android:textStyle="bold"
+                android:background="@drawable/c_r_fun_ajna_15"/>
+
+            <Button
+                android:id="@+id/createRoomBtn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingRight="40dp"
+                android:layout_marginTop="20dp"
+                android:text="Create Room"
+                android:textAllCaps="false"
+                android:textColor="@color/fun_white"
+                android:textStyle="bold"
+                android:paddingLeft="40dp"
+                android:background="@drawable/c_r_fun_sahasraha_15"/>
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>

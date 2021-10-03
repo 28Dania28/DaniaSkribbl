@@ -1,0 +1,85 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/macbook/Desktop/DaniaAndroid/GuessIt/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "/Users/macbook/Desktop/DaniaAndroid/GuessIt/app/src/main/res/values-v23/themes.xml",
+                    "from": {
+                        "startLines": "15,199,145,186,212,57,72,136,141,151,86,30,2,37,123,110,174,99,52,163",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "725,10068,7370,9403,10703,2758,3615,7125,7243,7579,4388,1473,17,1778,6402,5673,8760,5088,2541,8168",
+                        "endLines": "28,209,149,196,221,70,84,138,143,160,97,35,13,50,134,121,184,108,55,172",
+                        "endColumns": "12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "1467,10696,7573,10061,11278,3609,4382,7236,7364,8161,5082,1772,719,2535,7119,6396,9397,5667,2752,8754"
+                    },
+                    "to": {
+                        "startLines": "2,64,75,83,94,104,118,131,134,137,147,159,165,177,191,203,215,226,244,248",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,4271,4904,5262,5925,6505,7361,8133,8249,8375,8962,9661,9965,10672,11434,12156,12884,13526,14648,14864",
+                        "endLines": "15,74,79,93,103,117,130,133,136,146,158,164,176,190,202,214,225,235,247,257",
+                        "endColumns": "12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "797,4899,5107,5920,6500,7356,8128,8244,8370,8957,9656,9960,10667,11429,12151,12879,13521,14105,14859,15450"
+                    }
+                },
+                {
+                    "source": "/Users/macbook/.gradle/caches/transforms-2/files-2.1/48b4b0187e14710b58f428dfadc2260b/appcompat-1.3.0/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1371,2267,2386,2513,2735,2959,3074,3181,3294",
+                        "endLines": "2,3,4,5,19,33,34,35,38,42,43,44,45,49",
+                        "endColumns": "134,134,74,86,12,12,118,126,12,12,114,106,112,12",
+                        "endOffsets": "185,320,395,482,1366,2262,2381,2508,2730,2954,3069,3176,3289,3519"
+                    },
+                    "to": {
+                        "startLines": "16,17,18,19,20,34,48,49,50,53,57,58,59,60",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "802,937,1072,1147,1234,2118,3014,3133,3260,3482,3706,3821,3928,4041",
+                        "endLines": "16,17,18,19,33,47,48,49,52,56,57,58,59,63",
+                        "endColumns": "134,134,74,86,12,12,118,126,12,12,114,106,112,12",
+                        "endOffsets": "932,1067,1142,1229,2113,3009,3128,3255,3477,3701,3816,3923,4036,4266"
+                    }
+                },
+                {
+                    "source": "/Users/macbook/.gradle/caches/transforms-2/files-2.1/9feb6959001be92bd2244dcada9857da/material-1.3.0/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,320",
+                        "endLines": "5,9",
+                        "endColumns": "10,10",
+                        "endOffsets": "315,588"
+                    },
+                    "to": {
+                        "startLines": "236,240",
+                        "startColumns": "4,4",
+                        "startOffsets": "14110,14375",
+                        "endLines": "239,243",
+                        "endColumns": "10,10",
+                        "endOffsets": "14370,14643"
+                    }
+                },
+                {
+                    "source": "/Users/macbook/.gradle/caches/transforms-2/files-2.1/39476674c0d31301ff410315183426d1/cardview-1.0.0/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    },
+                    "to": {
+                        "startLines": "80",
+                        "startColumns": "4",
+                        "startOffsets": "5112",
+                        "endLines": "82",
+                        "endColumns": "12",
+                        "endOffsets": "5257"
+                    }
+                }
+            ]
+        }
+    ]
+}

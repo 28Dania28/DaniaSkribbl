@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "488849960105",
+    "project_id": "daniaskribbl",
+    "storage_bucket": "daniaskribbl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488849960105:android:adadf964ed2b54656b0db8",
+        "android_client_info": {
+          "package_name": "com.dania.guessit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488849960105-guuttmk697svifv8l4noi7c8mb3ljtub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz12YvBIZc6LWYKubttAQMqmYwF610zps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488849960105-guuttmk697svifv8l4noi7c8mb3ljtub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

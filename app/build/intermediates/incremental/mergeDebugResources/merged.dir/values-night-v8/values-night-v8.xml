@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="draw_time">
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+        <item>70</item>
+        <item>80</item>
+        <item>90</item>
+        <item>100</item>
+        <item>110</item>
+        <item>120</item>
+        <item>130</item>
+        <item>140</item>
+        <item>150</item>
+        <item>160</item>
+        <item>170</item>
+        <item>180</item>
+    </string-array>
+    <string-array name="rounds_number">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <color name="Black">#000000</color>
+    <color name="Black1">#000000</color>
+    <color name="Black2">#2B2B2B</color>
+    <color name="Black3">#3C3F41</color>
+    <color name="Black4">#3C3F41</color>
+    <color name="Black5">#595B5D</color>
+    <color name="NewBlack">#434A54</color>
+    <color name="Translucent">#00ffffff</color>
+    <color name="Transparent">#00555555</color>
+    <color name="White">#FFFFFF</color>
+    <color name="bb_grey">#BBBBBB</color>
+    <color name="bg1">#212226</color>
+    <color name="bg2">#303136</color>
+    <color name="bg3">#002356</color>
+    <color name="bg4">#0758A3</color>
+    <color name="blackPearl">#051E34</color>
+    <color name="black_20">#33000000</color>
+    <color name="black_overlay">#ffffff</color>
+    <color name="btn_new">#242C33</color>
+    <color name="color1">#00BFFE</color>
+    <color name="colorAccent">#9862AE</color>
+    <color name="colorAccent1">#03DAC5</color>
+    <color name="colorAjna">#275E9D</color>
+    <color name="colorAnahata">#6ABD47</color>
+    <color name="colorAnahata_translucent">#996ABD47</color>
+    <color name="colorManipura">#F9AF3C</color>
+    <color name="colorManipura_translucent">#99F9AF3C</color>
+    <color name="colorMuladhara">#E15160</color>
+    <color name="colorMuladhara_translucent">#99E15160</color>
+    <color name="colorPrimary">#202125</color>
+    <color name="colorPrimary1">#6200EE</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorPrimaryDark1">#3700B3</color>
+    <color name="colorPrimaryDarkText">#00897B</color>
+    <color name="colorSahasraha">#9151A2</color>
+    <color name="colorSahasrahaLight">#CEABDA</color>
+    <color name="colorSvadhisthana">#F8783C</color>
+    <color name="colorVishuddha">#00BFFE</color>
+    <color name="color_option_menu">#FF3990</color>
+    <color name="crd10">#303136</color>
+    <color name="crd20">#212226</color>
+    <color name="ctrtld15">#303136</color>
+    <color name="ctrtld20">#303136</color>
+    <color name="deepRoot">#000000</color>
+    <color name="deepRoot2">#202125</color>
+    <color name="filter_label_normal">#8A8889</color>
+    <color name="filter_label_selected">#221F20</color>
+    <color name="first">#202125</color>
+    <color name="fun_ajna">#1CB0F6</color>
+    <color name="fun_anahata">#57CC02</color>
+    <color name="fun_anahata_light">#B6E674</color>
+    <color name="fun_grey">#E4E4E4</color>
+    <color name="fun_grey2">#F7F7F7</color>
+    <color name="fun_manipura">#FEC700</color>
+    <color name="fun_muladhara">#FF4B4C</color>
+    <color name="fun_sahasraha">#CE82FF</color>
+    <color name="fun_text1">#4b4b4b</color>
+    <color name="fun_text2">#AFAFAF</color>
+    <color name="fun_white">#FFFFFD</color>
+    <color name="iBlue">#33425F</color>
+    <color name="iOffWhite">#EBF0F4</color>
+    <color name="iTextGrey">#A7B0BD</color>
+    <color name="iWhite">#F2F7FB</color>
+    <color name="iWhite2">#E4E5E9</color>
+    <color name="icon1">#E4FBEF</color>
+    <color name="icon2">#D3EFFB</color>
+    <color name="icon3">#B1E4F9</color>
+    <color name="light_grey">#898E91</color>
+    <color name="line">#333436</color>
+    <color name="line2">#393A3C</color>
+    <color name="moon">#9862AE</color>
+    <color name="newfirst">#333436</color>
+    <color name="newroot">#18191B</color>
+    <color name="newsecond">#393A3C</color>
+    <color name="newupper">#242527</color>
+    <color name="online_green">#4CAF50</color>
+    <color name="orange">#ffb067</color>
+    <color name="red">#ff6767</color>
+    <color name="root">#202125</color>
+    <color name="root1">#202125</color>
+    <color name="root_new">#212338</color>
+    <color name="second">#393A3C</color>
+    <color name="text1">#FEFEFE</color>
+    <color name="text2">#8D9196</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_black_percent_20">#33000000</color>
+    <color name="transparent_black_percent_30">#44000000</color>
+    <color name="transparent_black_percent_40">#55000000</color>
+    <color name="transparent_black_percent_50">#66000000</color>
+    <color name="transparent_black_percent_60">#99000000</color>
+    <color name="txt1">#9BA0A6</color>
+    <color name="txt2">#9BA0A6</color>
+    <color name="txt3">#E9EAEE</color>
+    <color name="txt4">#E9EAEE</color>
+    <color name="txt5">#E9EAEE</color>
+    <color name="txt6">#E9EAEE</color>
+    <color name="txt8">#9BA0A6</color>
+    <color name="upper">#303135</color>
+    <color name="upper1">#303135</color>
+    <color name="upper2">#303135</color>
+    <color name="upper3">#303135</color>
+    <color name="upper4">#303135</color>
+    <color name="upper_new">#30344D</color>
+    <color name="us2_rl1">#303136</color>
+    <color name="us2_tv1">#FEFEFE</color>
+    <color name="vaddd">#FFFFFF</color>
+    <color name="vector">#9BA0A6</color>
+    <color name="vector2">#202125</color>
+    <color name="vsearchd">#FFFFFF</color>
+    <color name="wb">#202125</color>
+    <color name="wedgeWood">#486282</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_20">#33FFFFFF</color>
+    <color name="white_30">#44FFFFFF</color>
+    <color name="white_40">#55FFFFFF</color>
+    <color name="white_50">#66FFFFFF</color>
+    <color name="white_60">#77FFFFFF</color>
+    <color name="white_70">#88FFFFFF</color>
+    <color name="white_80">#99FFFFFF</color>
+    <string name="app_name">DaniaSkribbl</string>
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/root</item>
+        <item name="android:textColorPrimary">@color/txt1</item>
+        <item name="android:navigationBarColor">@color/root</item>
+        <item name="android:statusBarColor">@color/root</item>
+        <item name="android:windowBackground">@color/wb</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowActivityTransitions">true</item>
+    </style>
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+    <style name="BlackBlackTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">#ffffff</item>
+        <item name="android:navigationBarColor">#000000</item>
+        <item name="android:statusBarColor">#000000</item>
+        <item name="colorAccent">@color/colorSahasraha</item>
+        <item name="android:windowActivityTransitions">true</item>
+    </style>
+    <style name="BubbleTabText">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="textAllCaps">true</item>
+    </style>
+    <style name="ColorColorTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorSahasraha</item>
+        <item name="colorPrimaryDark">#ffffff</item>
+        <item name="android:navigationBarColor">@color/colorSahasraha</item>
+        <item name="android:statusBarColor">@color/colorSahasraha</item>
+        <item name="colorAccent">@color/colorSahasraha</item>
+        <item name="android:windowActivityTransitions">true</item>
+    </style>
+    <style name="ColorWhiteTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">#ffffff</item>
+        <item name="android:navigationBarColor">#ffffff</item>
+        <item name="android:statusBarColor">@color/colorSahasraha</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowActivityTransitions">true</item>
+    </style>
+    <style name="DeepRootRootTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/root</item>
+        <item name="android:textColorPrimary">@color/txt1</item>
+        <item name="android:navigationBarColor">@color/root</item>
+        <item name="android:statusBarColor">@color/deepRoot</item>
+        <item name="android:windowBackground">@color/wb</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowActivityTransitions">true</item>
+        <item name="android:windowAnimationStyle">@style/WindowAnimationTransition</item>
+    </style>
+    <style name="DeepRootUpperTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/root</item>
+        <item name="android:textColorPrimary">@color/txt1</item>
+        <item name="android:navigationBarColor">@color/upper</item>
+        <item name="android:statusBarColor">@color/deepRoot</item>
+        <item name="android:windowBackground">@color/wb</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowActivityTransitions">true</item>
+    </style>
+    <style name="DialogTranslucent">
+        <item name="android:background">@color/transparent</item>
+    </style>
+    <style name="FullScreen" parent="FullscreenTheme">
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="FullscreenActionBarStyle" parent="Widget.AppCompat.ActionBar">
+        <item name="android:background">@color/black_overlay</item>
+    </style>
+    <style name="FullscreenTheme" parent="AppTheme">
+        <item name="android:actionBarStyle">@style/FullscreenActionBarStyle</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowBackground">@null</item>
+        <item name="metaButtonBarStyle">?android:attr/buttonBarStyle</item>
+        <item name="metaButtonBarButtonStyle">?android:attr/buttonBarButtonStyle</item>
+    </style>
+    <style name="OffWhiteWhiteTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">#ffffff</item>
+        <item name="android:navigationBarColor">#ffffff</item>
+        <item name="android:statusBarColor">#fafafa</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowActivityTransitions">true</item>
+    </style>
+    <style name="RootUpperTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/root</item>
+        <item name="android:navigationBarColor">@color/upper</item>
+        <item name="android:statusBarColor">@color/root</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/wb</item>
+        <item name="android:windowActivityTransitions">true</item>
+    </style>
+    <style name="SpinnerTheme">
+        <item name="android:background">@color/transparent</item>
+        <item name="colorAccent">@color/fun_text1</item>
+        <item name="android:colorPrimary">@color/fun_text1</item>
+        <item name="android:dropDownSelector">@color/fun_text1</item>
+    </style>
+    <style name="Theme.AppCompat.DayNight" parent="Theme.AppCompat"/>
+    <style name="Theme.AppCompat.DayNight.DarkActionBar" parent="Theme.AppCompat"/>
+    <style name="Theme.AppCompat.DayNight.Dialog" parent="Theme.AppCompat.Dialog"/>
+    <style name="Theme.AppCompat.DayNight.Dialog.Alert" parent="Theme.AppCompat.Dialog.Alert"/>
+    <style name="Theme.AppCompat.DayNight.Dialog.MinWidth" parent="Theme.AppCompat.Dialog.MinWidth"/>
+    <style name="Theme.AppCompat.DayNight.DialogWhenLarge" parent="Theme.AppCompat.DialogWhenLarge"/>
+    <style name="Theme.AppCompat.DayNight.NoActionBar" parent="Theme.AppCompat.NoActionBar"/>
+    <style name="Theme.GuessIt" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="android:textColorPrimary">@color/txt1</item>
+        <item name="colorPrimaryDark">#ffffff</item>
+        <item name="android:navigationBarColor">#ffffff</item>
+        <item name="android:statusBarColor">#FFFFFF</item>
+        <item name="android:windowBackground">@color/wb</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowActivityTransitions">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+    <style name="Theme.MaterialComponents.DayNight" parent="Theme.MaterialComponents"/>
+    <style name="Theme.MaterialComponents.DayNight.BottomSheetDialog" parent="Theme.MaterialComponents.BottomSheetDialog"/>
+    <style name="Theme.MaterialComponents.DayNight.Bridge" parent="Theme.MaterialComponents.Bridge"/>
+    <style name="Theme.MaterialComponents.DayNight.DarkActionBar" parent="Theme.MaterialComponents"/>
+    <style name="Theme.MaterialComponents.DayNight.DarkActionBar.Bridge" parent="Theme.MaterialComponents.Bridge"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog" parent="Theme.MaterialComponents.Dialog"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.Alert" parent="Theme.MaterialComponents.Dialog.Alert"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.Alert.Bridge" parent="Theme.MaterialComponents.Dialog.Alert.Bridge"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.Bridge" parent="Theme.MaterialComponents.Dialog.Bridge"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.FixedSize" parent="Theme.MaterialComponents.Dialog.FixedSize"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.FixedSize.Bridge" parent="Theme.MaterialComponents.Dialog.FixedSize.Bridge"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.MinWidth" parent="Theme.MaterialComponents.Dialog.MinWidth"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.MinWidth.Bridge" parent="Theme.MaterialComponents.Dialog.MinWidth.Bridge"/>
+    <style name="Theme.MaterialComponents.DayNight.DialogWhenLarge" parent="Theme.MaterialComponents.DialogWhenLarge"/>
+    <style name="Theme.MaterialComponents.DayNight.NoActionBar" parent="Theme.MaterialComponents.NoActionBar"/>
+    <style name="Theme.MaterialComponents.DayNight.NoActionBar.Bridge" parent="Theme.MaterialComponents.NoActionBar.Bridge"/>
+    <style name="ThemeOverlay.AppCompat.DayNight" parent="ThemeOverlay.AppCompat.Dark"/>
+    <style name="ThemeOverlay.GuessIt.FullscreenContainer" parent="">
+        <item name="fullscreenBackgroundColor">@color/light_blue_900</item>
+        <item name="fullscreenTextColor">@color/light_blue_A400</item>
+    </style>
+    <style name="ThemeOverlay.MaterialComponents.DayNight.BottomSheetDialog" parent="ThemeOverlay.MaterialComponents.BottomSheetDialog"/>
+    <style name="Transparent" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/root</item>
+        <item name="android:textColorPrimary">@color/txt1</item>
+        <item name="android:navigationBarColor">@color/root</item>
+        <item name="android:statusBarColor">@color/root</item>
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowActivityTransitions">true</item>
+    </style>
+    <style name="TransparentBlackTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">#ffffff</item>
+        <item name="android:navigationBarColor">#000000</item>
+        <item name="android:statusBarColor">@color/transparent</item>
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="colorAccent">@color/colorSahasraha</item>
+        <item name="android:windowActivityTransitions">true</item>
+    </style>
+    <style name="TransparentTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">#ffffff</item>
+        <item name="android:navigationBarColor">@color/transparent</item>
+        <item name="android:statusBarColor">@color/transparent</item>
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="colorAccent">@color/colorSahasraha</item>
+        <item name="android:windowActivityTransitions">true</item>
+    </style>
+    <style name="WhiteColorTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">#ffffff</item>
+        <item name="android:navigationBarColor">@color/color1</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowActivityTransitions">true</item>
+    </style>
+    <style name="WhiteWhiteTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">#ffffff</item>
+        <item name="android:navigationBarColor">@color/root</item>
+        <item name="android:statusBarColor">@color/root</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="Widget.MaterialComponents.ActionBar.PrimarySurface" parent="Widget.MaterialComponents.ActionBar.Surface"/>
+    <style name="Widget.MaterialComponents.AppBarLayout.PrimarySurface" parent="Widget.MaterialComponents.AppBarLayout.Surface"/>
+    <style name="Widget.MaterialComponents.BottomAppBar.PrimarySurface" parent="Widget.MaterialComponents.BottomAppBar"/>
+    <style name="Widget.MaterialComponents.BottomNavigationView.PrimarySurface" parent="Widget.MaterialComponents.BottomNavigationView"/>
+    <style name="Widget.MaterialComponents.TabLayout.PrimarySurface" parent="Widget.MaterialComponents.TabLayout"/>
+    <style name="Widget.MaterialComponents.Toolbar.PrimarySurface" parent="Widget.MaterialComponents.Toolbar.Surface"/>
+    <style name="WindowAnimationTransition">
+        <item name="android:windowEnterAnimation">@android:anim/fade_in</item>
+        <item name="android:windowExitAnimation">@android:anim/fade_out</item>
+    </style>
+    <style name="iWhiteWhiteTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">#ffffff</item>
+        <item name="android:navigationBarColor">#ffffff</item>
+        <item name="android:statusBarColor">@color/iWhite</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowActivityTransitions">true</item>
+    </style>
+    <declare-styleable name="ButtonBarContainerTheme">
+        <attr format="reference" name="metaButtonBarStyle"/>
+        <attr format="reference" name="metaButtonBarButtonStyle"/>
+    </declare-styleable>
+</resources>

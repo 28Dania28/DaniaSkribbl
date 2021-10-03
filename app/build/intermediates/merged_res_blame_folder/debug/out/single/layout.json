@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/macbook/Desktop/DaniaAndroid/GuessIt/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_room.xml",
+        "source": "/Users/macbook/Desktop/DaniaAndroid/GuessIt/app/src/main/res/layout/activity_room.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/DaniaAndroid/GuessIt/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_playground2.xml",
+        "source": "/Users/macbook/Desktop/DaniaAndroid/GuessIt/app/src/main/res/layout/activity_playground2.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/DaniaAndroid/GuessIt/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_playground.xml",
+        "source": "/Users/macbook/Desktop/DaniaAndroid/GuessIt/app/src/main/res/layout/activity_playground.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/DaniaAndroid/GuessIt/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_dash.xml",
+        "source": "/Users/macbook/Desktop/DaniaAndroid/GuessIt/app/src/main/res/layout/activity_dash.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/DaniaAndroid/GuessIt/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dialog_leave_room.xml",
+        "source": "/Users/macbook/Desktop/DaniaAndroid/GuessIt/app/src/main/res/layout/dialog_leave_room.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/DaniaAndroid/GuessIt/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/macbook/Desktop/DaniaAndroid/GuessIt/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/DaniaAndroid/GuessIt/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_create_room.xml",
+        "source": "/Users/macbook/Desktop/DaniaAndroid/GuessIt/app/src/main/res/layout/activity_create_room.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/DaniaAndroid/GuessIt/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_enter_room.xml",
+        "source": "/Users/macbook/Desktop/DaniaAndroid/GuessIt/app/src/main/res/layout/activity_enter_room.xml"
+    }
+]
